@@ -24,7 +24,7 @@ Folders will be created using the structure ```course/username/source```.
 |Machine Learning Explainability|-|-|
 |Intro to Game AI and Reinforcement Learning|-|-|
 
-> O: Finished
-> O*: Finished but reviewing
-> *: Currently learning
-> -: Not finished
+> O: Finished  
+> O*: Finished but reviewing  
+> *: Currently learning  
+> -: Not finished  
