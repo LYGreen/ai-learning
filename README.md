@@ -18,8 +18,8 @@ Folders will be created using the structure ```course/username/source```.
 |:---|:---|:---|:---|
 |Intro to Programming|O|O|O|
 |Python|O|O|O|
-|Intro to Machine Learning|O*|*|*|
-|Pandas|O|-|-|
+|Intro to Machine Learning|O*|O|*|
+|Pandas|O|O|-|
 |Intermediate Machine Learning|O|-|-|
 |Data Visualization|O|-|-|
 |Feature Engineering|O|-|-|
