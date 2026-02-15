@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=7.2.0",
     "kaggle>=2.0.0",
     "pandas>=3.0.0",
+    "scikit-learn>=1.8.0",
 ]
