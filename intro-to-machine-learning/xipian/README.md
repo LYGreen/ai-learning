@@ -41,18 +41,27 @@ source .venv/bin/activate
 ```bash
 # 运行主程序
 python main.py
+
+# 运行测试脚本
+python src/test.py
 ```
 
 ## 📁 项目结构(动态更新)
 
 ```
 xipian/
+├── .python-version      # Python版本指定
+├── .venv/               # 虚拟环境目录（由uv自动创建）
+├── exp/                 # 实验和探索性分析目录
+│   └── melb_data.ipynb  # Melbourne房价数据探索
+├── input/               # 数据集目录
+│   └── melb_data.csv    # Melbourne房价数据
+├── src/                 # 源代码目录
+│   └── test.py          # 测试脚本
 ├── main.py              # 项目主入口文件
 ├── pyproject.toml       # 项目配置和依赖管理
-├── uv.lock              # uv锁文件，确保依赖一致性
 ├── README.md            # 项目说明文档
-├── .python-version      # Python版本指定
-└── .venv/               # 虚拟环境目录（由uv自动创建）
+└── uv.lock              # uv锁文件，确保依赖一致性
 ```
 
 ## 📦 依赖管理
