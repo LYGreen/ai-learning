@@ -11,7 +11,10 @@
 This repository documents my friends’ and my AI learning process. We will upload our codes or notes here.
 [Kaggle courses](https://www.kaggle.com/learn)
 
-Folders will be created using the structure ```course/username/source```.
+## Project Strcture
+```
+[course]/[username]/[files]
+```
 
 ## Course Completion Status
 |Course|LYGreen|xipian|dekxi|
