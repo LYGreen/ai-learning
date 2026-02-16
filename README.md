@@ -17,25 +17,25 @@ This repository documents my friends’ and my AI learning process. We will uplo
 ```
 
 ## Course Completion Status
-|Course|LYGreen|xipian|dekxi|
-|:---|:---|:---|:---|
-|Intro to Programming|O|O|O|
-|Python|O|O|O|
-|Intro to Machine Learning|O*|O|*|
-|Pandas|O|O|-|
-|Intermediate Machine Learning|O|-|-|
-|Data Visualization|O|-|-|
-|Feature Engineering|O|-|-|
-|Intro to SQL|-|-|-|
-|Advanced SQL|-|-|-|
-|Intro to Deep Learning|O|-|-|
-|Computer Vision|*|-|-|
-|Time Series|-|-|-|
-|Data Cleaning|O|-|-|
-|Intro to AI Ethics|-|-|-|
-|Geospatial ANalysis|-|-|-|
-|Machine Learning Explainability|-|-|-|
-|Intro to Game AI and Reinforcement Learning|-|-|-|
+|Course|LYGreen|xipian|dekxi|Sara|
+|:---|:---|:---|:---|:---|
+|Intro to Programming|O|O|O|O|
+|Python|O|O|O|*|
+|Intro to Machine Learning|O*|O|*|-|
+|Pandas|O|O|-|-|
+|Intermediate Machine Learning|O|-|-|-|
+|Data Visualization|O|-|-|-|
+|Feature Engineering|O|-|-|-|
+|Intro to SQL|-|-|-|-|
+|Advanced SQL|-|-|-|-|
+|Intro to Deep Learning|O|-|-|-|
+|Computer Vision|*|-|-|-|
+|Time Series|-|-|-|-|
+|Data Cleaning|O|-|-|-|
+|Intro to AI Ethics|-|-|-|-|
+|Geospatial ANalysis|-|-|-|-|
+|Machine Learning Explainability|-|-|-|-|
+|Intro to Game AI and Reinforcement Learning|-|-|-|-|
 
 > O: Finished  
 > O*: Finished but reviewing  
@@ -48,11 +48,13 @@ This repository documents my friends’ and my AI learning process. We will uplo
     <th><a href="https://github.com/LYGreen">LYGREEN</a></th>
     <th><a href="https://github.com/xipian1216">xipian1216</a></th>
     <th><a href="https://github.com/Dekxisosta">Dekxisosta</a></th>
+    <th><a href="https://github.com/SaraFaizi557">Sara</a></th>
   </tr>
   <tr>
     <td><a href="https://github.com/LYGreen"><img src="https://avatars.githubusercontent.com/u/88890606?v=4&s=120" style="border-radius: 100%;" width="120" height="120" alt="LYGreen"></a></td>
     <td><a href="https://github.com/xipian1216"><img src="https://avatars.githubusercontent.com/u/151447448?v=4&s=120" width="120" height="120" alt="xipian"></a></td>
     <td><a href="https://github.com/Dekxisosta"><img src="https://avatars.githubusercontent.com/u/201718391?v=4&s=120" width="120" height="120" alt="Dekxisosta"></a></td>
+    <td><a href="https://github.com/SaraFaizi557"><img src="https://avatars.githubusercontent.com/u/215264780?v=4&s=120" width="120" height="120" alt="Sara"></a></td>
   </tr>
 </table>
 
