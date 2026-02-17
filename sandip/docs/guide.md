@@ -62,43 +62,43 @@ deactivate
 
 ### Step 1: System Update (Fedora)
 
-- [ ] Open terminal
-- [ ] Run `sudo dnf update -y`
-- [ ] Verify completion (no errors)
+- [x] Open terminal
+- [x] Run `sudo dnf update -y`
+- [x] Verify completion (no errors)
 
 ### Step 2: Install Python (Fedora)
 
-- [ ] Run `sudo dnf install python3 python3-pip -y`
-- [ ] Verify: Run `python3 --version` (should show 3.x.x)
-- [ ] Verify: Run `pip3 --version`
-- [ ] Take note of Python version in a text file
-- [ ] Note: Fedora includes python3-venv by default
+- [x] Run `sudo dnf install python3 python3-pip -y`
+- [x] Verify: Run `python3 --version` (should show 3.x.x)
+- [x] Verify: Run `pip3 --version`
+- [x] Take note of Python version in a text file
+- [x] Note: Fedora includes python3-venv by default
 
 ### Step 3: Create Virtual Environment
 
-- [ ] Navigate to your project directory: `cd ~/projects/ai-learning`
-- [ ] Create venv: `python3 -m venv .venv`
-- [ ] Activate it: `source .venv/bin/activate`
-- [ ] Verify prompt shows `(.venv)` prefix
-- [ ] Create a file `setup_notes.md` documenting this step
+- [x] Navigate to your project directory: `cd ~/projects/ai-learning`
+- [x] Create venv: `python3 -m venv .venv`
+- [x] Activate it: `source .venv/bin/activate`
+- [x] Verify prompt shows `(.venv)` prefix
+- [x] Create a file `setup_notes.md` documenting this step
 
 ### Step 4: Install Essential Packages
 
-- [ ] Run `pip install --upgrade pip`
-- [ ] Install JupyterLab: `pip install jupyterlab`
-- [ ] Install data packages: `pip install pandas numpy`
-- [ ] Install ML packages: `pip install scikit-learn`
-- [ ] Install visualization: `pip install matplotlib seaborn`
-- [ ] Verify installations: `pip list` (check all packages appear)
-- [ ] Save package list: `pip freeze > requirements.txt`
+- [x] Run `pip install --upgrade pip`
+- [x] Install JupyterLab: `pip install jupyterlab`
+- [x] Install data packages: `pip install pandas numpy`
+- [x] Install ML packages: `pip install scikit-learn`
+- [x] Install visualization: `pip install matplotlib seaborn`
+- [x] Verify installations: `pip list` (check all packages appear)
+- [x] Save package list: `pip freeze > requirements.txt`
 
 ### Step 5: Setup Project Structure
 
-- [ ] Create `mkdir -p projects/figures`
-- [ ] Create `mkdir -p projects/data`
-- [ ] Create `mkdir -p projects/scripts`
-- [ ] Create `mkdir -p projects/notebooks`
-- [ ] List structure: `tree projects/` or `ls -R projects/`
+- [x] Create `mkdir -p projects/figures`
+- [x] Create `mkdir -p projects/data`
+- [x] Create `mkdir -p projects/scripts`
+- [x] Create `mkdir -p projects/notebooks`
+- [x] List structure: `tree projects/` or `ls -R projects/`
 
 ---
 
