@@ -16,7 +16,7 @@ This repository documents my friends’ and my AI learning process. We will uplo
 ## Project Strcture
 
 ```structure
-[course]/[username]/[files]
+[username]/**
 ```
 
 ## Course Completion Status
@@ -25,7 +25,7 @@ This repository documents my friends’ and my AI learning process. We will uplo
 |:---|:---|:---|:---|:---|:---|
 |Intro to Programming|O|O|O|O|-|
 |Python|O|O|O|*|-|
-|Intro to Machine Learning|O|O|*|-|-|
+|Intro to Machine Learning|O*|O|*|-|-|
 |Pandas|O|O|-|-|-|
 |Intermediate Machine Learning|O|-|-|-|-|
 |Data Visualization|O|-|-|-|-|
@@ -33,8 +33,8 @@ This repository documents my friends’ and my AI learning process. We will uplo
 |Intro to SQL|-|-|-|-|-|
 |Advanced SQL|-|-|-|-|-|
 |Intro to Deep Learning|O|-|-|-|-|
-|Computer Vision|*|-|-|-|-|
-|Time Series|-|-|-|-|-|
+|Computer Vision|O|-|-|-|-|
+|Time Series|*|-|-|-|-|
 |Data Cleaning|O|-|-|-|-|
 |Intro to AI Ethics|-|-|-|-|-|
 |Geospatial ANalysis|-|-|-|-|-|
