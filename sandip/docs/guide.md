@@ -116,23 +116,23 @@ deactivate
 
 ### Task 1.2: First Python Script
 
-- [ ] Create file: `touch hello.py`
-- [ ] Open in editor: `nano hello.py` or use VS Code
-- [ ] Write code:
+- [x] Create file: `touch hello.py`
+- [x] Open in editor: `nano hello.py` or use VS Code
+- [x] Write code:
 
   ```python
   print("Hello, I am Sandip!")
   print("Starting my AI journey")
   ```
 
-- [ ] Save and exit
-- [ ] Run: `python hello.py`
-- [ ] Verify output appears correctly
+- [x] Save and exit
+- [x] Run: `python hello.py`
+- [x] Verify output appears correctly
 
 ### Task 1.3: Variables and Data Types
 
-- [ ] Create `basics.py`
-- [ ] Write code for variables:
+- [x] Create `basics.py`
+- [x] Write code for variables:
 
   ```python
   name = "Sandip"
@@ -141,16 +141,16 @@ deactivate
   print(f"My name is {name}, age {age}")
   ```
 
-- [ ] Add a list: `skills = ["Python", "ML", "Data"]`
-- [ ] Print the list: `print(skills)`
-- [ ] Run script and verify output
+- [x] Add a list: `skills = ["Python", "ML", "Data"]`
+- [x] Print the list: `print(skills)`
+- [x] Run script and verify output
 
 ### Task 1.4: Setup Project Directory
 
-- [ ] Create directory: `mkdir projects`
-- [ ] Navigate: `cd projects`
-- [ ] Create README: `touch README.md`
-- [ ] Open and write:
+- [x] Create directory: `mkdir projects`
+- [x] Navigate: `cd projects`
+- [x] Create README: `touch README.md`
+- [x] Open and write:
 
   ```markdown
   # My AI Learning Projects
@@ -158,16 +158,16 @@ deactivate
   Started: [today's date]
   ```
 
-- [ ] Save file
-- [ ] Verify: `cat README.md`
+- [x] Save file
+- [x] Verify: `cat README.md`
 
 ### Task 1.5: Basic Terminal Navigation
 
-- [ ] Practice `pwd` (print working directory)
-- [ ] Practice `ls` (list files)
-- [ ] Practice `cd ..` (go up one directory)
-- [ ] Practice `cd projects` (enter directory)
-- [ ] Create a cheat sheet file with these commands
+- [x] Practice `pwd` (print working directory)
+- [x] Practice `ls` (list files)
+- [x] Practice `cd ..` (go up one directory)
+- [x] Practice `cd projects` (enter directory)
+- [x] Create a cheat sheet file with these commands
 
 ---
 
