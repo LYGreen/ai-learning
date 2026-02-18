@@ -23,9 +23,9 @@ This repository documents my friends’ and my AI learning process. We will uplo
 
 |Course|LYGreen|xipian|dekxi|Sara|sandip|
 |:---|:---|:---|:---|:---|:---|
-|Intro to Programming|O|O|O|O|0|
-|Python|O|O|O|*|*|
-|Intro to Machine Learning|O*|O|*|-|-|
+|Intro to Programming|O|O|O|O|O|
+|Python|O|O|O|*|O|
+|Intro to Machine Learning|O*|O|*|-|*|
 |Pandas|O|O|-|-|-|
 |Intermediate Machine Learning|O|-|-|-|-|
 |Data Visualization|O|-|-|-|-|
