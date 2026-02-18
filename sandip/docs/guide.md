@@ -108,11 +108,11 @@ deactivate
 
 ### Task 1.1: Verify Python Installation
 
-- [ ] Open terminal
-- [ ] Run `python --version` or `python3 --version`
-- [ ] Write down the version number
-- [ ] Run `pip --version`
-- [ ] Screenshot or note both versions
+- [x] Open terminal
+- [x] Run `python --version` or `python3 --version`
+- [x] Write down the version number
+- [x] Run `pip --version`
+- [x] Screenshot or note both versions
 
 ### Task 1.2: First Python Script
 
