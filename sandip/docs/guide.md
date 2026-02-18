@@ -177,17 +177,17 @@ deactivate
 
 ### Task 2.1: Working with Lists
 
-- [ ] Create `list_practice.py`
-- [ ] Create a list: `numbers = [1, 2, 3, 4, 5]`
-- [ ] Write a for loop to print each number
-- [ ] Add: Calculate sum using `sum(numbers)`
-- [ ] Add: Find max using `max(numbers)`
-- [ ] Run and verify output
+- [x] Create `list_practice.py`
+- [x] Create a list: `numbers = [1, 2, 3, 4, 5]`
+- [x] Write a for loop to print each number
+- [x] Add: Calculate sum using `sum(numbers)`
+- [x] Add: Find max using `max(numbers)`
+- [x] Run and verify output
 
 ### Task 2.2: Working with Dictionaries
 
-- [ ] Create `dict_practice.py`
-- [ ] Create dictionary:
+- [x] Create `dict_practice.py`
+- [x] Create dictionary:
 
   ```python
   student = {
@@ -197,14 +197,14 @@ deactivate
   }
   ```
 
-- [ ] Print each key-value pair
-- [ ] Add a new key: `student["completed"] = []`
-- [ ] Run script
+- [x] Print each key-value pair
+- [x] Add a new key: `student["completed"] = []`
+- [x] Run script
 
 ### Task 2.3: Writing Functions
 
-- [ ] Create `utils.py`
-- [ ] Write a function:
+- [x] Create `utils.py`
+- [x] Write a function:
 
   ```python
   def greet(name):
@@ -214,7 +214,7 @@ deactivate
       return sum(numbers) / len(numbers)
   ```
 
-- [ ] Test in the same file:
+- [x] Test in the same file:
 
   ```python
   if __name__ == "__main__":
@@ -222,12 +222,12 @@ deactivate
       print(calculate_average([1, 2, 3, 4, 5]))
   ```
 
-- [ ] Run: `python utils.py`
+- [x] Run: `python utils.py`
 
 ### Task 2.4: Importing Functions
 
-- [ ] Create `main.py` in same directory as `utils.py`
-- [ ] Write:
+- [x] Create `main.py` in same directory as `utils.py`
+- [x] Write:
 
   ```python
   from utils import greet, calculate_average
@@ -237,13 +237,13 @@ deactivate
   print(f"Average score: {calculate_average(scores)}")
   ```
 
-- [ ] Run: `python main.py`
-- [ ] Verify functions imported correctly
+- [x] Run: `python main.py`
+- [x] Verify functions imported correctly
 
 ### Task 2.5: File Operations
 
-- [ ] Create `file_practice.py`
-- [ ] Write to a file:
+- [x] Create `file_practice.py`
+- [x] Write to a file:
 
   ```python
   with open("test.txt", "w") as f:
@@ -251,7 +251,7 @@ deactivate
       f.write("Learning Python file I/O\n")
   ```
 
-- [ ] Read from file:
+- [x] Read from file:
 
   ```python
   with open("test.txt", "r") as f:
@@ -259,7 +259,7 @@ deactivate
       print(content)
   ```
 
-- [ ] Run script and verify file creation
+- [x] Run script and verify file creation
 
 ### Task 2.6: Introduction to Pandas
 
@@ -280,14 +280,14 @@ deactivate
   print("\nSaved to people.csv")
   ```
 
-- [ ] Run script
-- [ ] Verify CSV file created
-- [ ] Open CSV in text editor to inspect
+- [x] Run script
+- [x] Verify CSV file created
+- [x] Open CSV in text editor to inspect
 
 ### Task 2.7: Reading CSV with Pandas
 
-- [ ] Create `read_csv.py`
-- [ ] Write:
+- [x] Create `read_csv.py`
+- [x] Write:
 
   ```python
   import pandas as pd
@@ -298,7 +298,7 @@ deactivate
   print(df.info())
   ```
 
-- [ ] Run and observe output
+- [x] Run and observe output
 
 ---
 
