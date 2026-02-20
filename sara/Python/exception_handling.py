@@ -26,3 +26,5 @@ except ValueError as err:
     print(f"There is an error: {err}")
 
 print("Club will open after 10 minutes")
+
+# git commit -m "Added exception handling"
