@@ -1,4 +1,4 @@
-from utils import greet, calculate_average
+from src.utils import greet, calculate_average
 
 print(greet("World"))
 scores = [85, 90, 78, 92]

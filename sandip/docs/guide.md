@@ -263,8 +263,8 @@ deactivate
 
 ### Task 2.6: Introduction to Pandas
 
-- [ ] Create `pandas_intro.py`
-- [ ] Write:
+- [x] Create `pandas_intro.py`
+- [x] Write:
 
   ```python
   import pandas as pd
