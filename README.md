@@ -27,7 +27,7 @@ This repository documents my friends’ and my AI learning process. We will uplo
 |Python|O|O|O|*|O*|
 |Intro to Machine Learning|O|O|*|-|*|
 |Pandas|O*|O|-|-|*|
-|Intermediate Machine Learning|O|-|-|-|-|
+|Intermediate Machine Learning|O|O|-|-|-|
 |Data Visualization|O|-|-|-|-|
 |Feature Engineering|O|-|-|-|-|
 |Intro to SQL|-|-|-|-|-|
