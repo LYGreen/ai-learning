@@ -1,3 +1,4 @@
 # My AI Learning Projects
-Aurthor: Sandip
+
+Author: Sandip
 Started: 2026, Feb 18

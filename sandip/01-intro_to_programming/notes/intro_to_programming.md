@@ -1,6 +1,5 @@
 # 📘 Level 1 — Intro to Programming
 
-
 ## Task 1.1: Verify Python Installation
 
 - [x] Open terminal
@@ -33,7 +32,7 @@ pip 25.1.1
 
 **Is there a search for easier installation of packages and dependencies?**
 
-- pip search <keyword> // this is deprecated in newer versions of pip, but can use pip index as a workaround for searching.
+- `pip search <keyword>` // this is deprecated in newer versions of pip, but can use `pip index` as a workaround for searching.
 
 **How do you get in and out of .venv?**
 
@@ -50,18 +49,12 @@ pip 25.1.1
 
 - the venv itself isolates the environement, and if you pair it with a requirements.txt file. you can lock exact versions. Once you install packages, you can `run pip freeze > requirements.txt`, capturing all versions. then anyone else can recreate that exact environment by installing from that file.
 
-- pip freeze > requirements.txt
-- pip install -r requirements.txt
+### Commands
 
-numpy==2.4.2
-pandas==3.0.1
-python-dateutil==2.9.0.post0
-six==1.17.0
+- `pip freeze > requirements.txt`
+- `pip install -r requirements.txt`
 
-numpy is all about efficient numerical operations
-
-pandas is for data manipulations think data frames reading CSVs and analysis
-
-python dateutil is a utility for parsing dates easily extending python's standard datetime
-
-six is a compatibility library that lets you write code that works in both python 2 and python 3.
+- numpy==2.4.2: numpy is all about efficient numerical operations
+- pandas==3.0.1: pandas is for data manipulations think data frames reading CSVs and analysis
+- python-dateutil==2.9.0.post0: python dateutil is a utility for parsing dates easily extending python's standard datetime
+- six==1.17.0: six is a compatibility library that lets you write code that works in both python 2 and python 3.
