@@ -8,7 +8,9 @@
 - [ ] Take notes on key concepts
 - [ ] List 3 things you want to learn
 
-## What are the key concepts?
+---
+
+### What are the key concepts?
 
 1. a model: basically a mathematical formula or algorithm that takes data and learns patterns to predict output like label. basically system that makes decision based on your data.
 
@@ -24,7 +26,9 @@
 
 7. hyperparameters: setting you choose before training.
 
-## what are the keywords in ai learning
+---
+
+### what are the keywords in ai learning
 
 1. Neural network:
 2. Learning rate
@@ -36,3 +40,31 @@
 8. Labels
 9. Training data
 10. Testing data
+
+---
+
+## Task 3.2: Study Decision Trees
+
+- [x] Open `intro-to-machine-learning/LYGreen/machine-learning-2.md`
+- [x] Read about Decision Trees
+- [ ] Draw a simple decision tree on paper (e.g., for predicting house prices)
+- [x] Note down: What is a decision tree? (write 2-3 sentences)
+
+---
+
+### Decision Tree
+
+*copyed from /LYGreen/intro-to-machine-learning/2-basic-data-exploration/machine-learning-2.md*
+
+```defination
+## Decision Trees
+A **Decision Tree** is an algorithm that mimics the human decision-making process. Starting from a "Root Node" at the top, it performs a series of "Yes/No" style judgments based on data features, eventually reaching a conclusion at the "Leaf Nodes".
+```
+
+![Decision Tree](decision_tree.png)
+
+1. Root - top node
+2. internal (decision) nodes - middle nodes
+3. leaf - end node
+
+Desicion tree basically yes and no until you come to a conclution of the decision.

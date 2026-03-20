@@ -311,15 +311,15 @@ deactivate
 - [x] Navigate to `intro-to-machine-learning/`
 - [x] Open `README.md`
 - [x] Read the course structure overview
-- [x] Take notes on key concepts
-- [x] List 3 things you want to learn
+- [ ] Take notes on key concepts
+- [ ] List 3 things you want to learn
 
 ### Task 3.2: Study Decision Trees
 
-- [ ] Open `intro-to-machine-learning/LYGreen/machine-learning-2.md`
-- [ ] Read about Decision Trees
+- [x] Open `intro-to-machine-learning/LYGreen/machine-learning-2.md`
+- [x] Read about Decision Trees
 - [ ] Draw a simple decision tree on paper (e.g., for predicting house prices)
-- [ ] Note down: What is a decision tree? (write 2-3 sentences)
+- [x] Note down: What is a decision tree? (write 2-3 sentences)
 
 ### Task 3.3: Setup ML Environment
 
