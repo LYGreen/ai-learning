@@ -308,11 +308,11 @@ deactivate
 
 ### Task 3.1: Read Course Materials
 
-- [ ] Navigate to `intro-to-machine-learning/`
-- [ ] Open `README.md`
-- [ ] Read the course structure overview
-- [ ] Take notes on key concepts
-- [ ] List 3 things you want to learn
+- [x] Navigate to `intro-to-machine-learning/`
+- [x] Open `README.md`
+- [x] Read the course structure overview
+- [x] Take notes on key concepts
+- [x] List 3 things you want to learn
 
 ### Task 3.2: Study Decision Trees
 
